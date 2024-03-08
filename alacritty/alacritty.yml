@@ -1,0 +1,16 @@
+
+window:
+  opacity: 0.7 
+    #  decorations: none
+
+  import:
+    - ~/.config/alacritty/themes/everblush.yml
+
+
+# Rest of your config...
+class:
+  instance: alacritty
+  general: alacritty
+
+    #shell:
+    #program: /bin/bash # Specify the path to your preferred shell
